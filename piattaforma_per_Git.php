@@ -352,7 +352,7 @@ if(isset($_GET['download'])) {
 				
 					 
 		
-		$destinatario='info@studioarea51.com';
+		$destinatario='*********';
 		
 		$oggetto='DOMANDA DALLA PIATTAFORMA MASTER KEY';
 		
