@@ -1,2 +1,3 @@
-piattaforma_MK: i diritti appartengono all'autore.
+piattaforma_MK
 ==============
+I diritti appartengono all'autore.
